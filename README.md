@@ -73,7 +73,7 @@ scikit-learn
 
 pandas
 
-Random Forest Classifier
+Batched Tree Ensemble Classifier
 
 ibm-watsonx-ai
 
@@ -83,7 +83,7 @@ ibm-watsonx-ai
 
 **Automated Model Building**: An AutoAI experiment was configured in watsonx.ai. This powerful tool automated the entire machine learning pipeline, including data preprocessing, feature engineering, model selection, and hyperparameter optimization.
 
-**Model Selection**: AutoAI trained and ranked multiple classification algorithms. The Random Forest Classifier was identified as the best-performing model based on accuracy.
+**Model Selection**: AutoAI trained and ranked multiple classification algorithms. The Batched Tree Ensemble Classifier was identified as the best-performing model based on accuracy.
 
 **Deployment**: The top-performing pipeline was saved as a model asset and deployed as an Online Web Service within a Deployment Space on IBM Watsonx.ai, which provides a REST API for real-time predictions.
 
@@ -103,17 +103,17 @@ The deployed model demonstrated high accuracy in classifying infrastructure proj
 
 **📁 Repository Contents**
 
-Completion Certificate _ SkillsBuild.pdf
+/Completion Certificate _ SkillsBuild.pdf
 
-IBMDesign20250721-29-7dqhae.pdf
+/IBMDesign20250721-29-7dqhae.pdf
 
-IBMDesign20250721-31-97hofq.pdf
+/IBMDesign20250721-31-97hofq.pdf
 
-Problem statement.docx
+/Problem statement.docx
 
-ProjectTemplate-aj.pdf: The final project presentation pdf submitted for evaluation.
+/ProjectTemplate-aj.pdf: The final project presentation pdf submitted for evaluation.
 
-README.md: This file.
+/README.md: This file.
 
 
 
