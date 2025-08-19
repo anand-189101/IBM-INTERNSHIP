@@ -54,8 +54,7 @@ Design a machine learning model to detect and classify different types of faults
 
 **Solution Overview**
 
-An end-to-end machine learning solution was developed to automate Power System Fault Detection and Classification  projects. The system uses a Kaggle dataset – https://www.kaggle.com/datasets/ziya07/power-system
-faults-dataset to predict the fault type from the dataset. The final, trained model was deployed as a real-time web service on the IBM Cloud platform.
+An end-to-end machine learning solution was developed to automate Power System Fault Detection and Classification  projects. The system uses a Kaggle dataset – https://www.kaggle.com/datasets/ziya07/power-system-faults-dataset to predict the fault type from the dataset. The final, trained model was deployed as a real-time web service on the IBM Cloud platform.
 
 
 **⚙️ Technology Stack**
@@ -101,12 +100,19 @@ The deployed model demonstrated high accuracy in classifying infrastructure proj
 <img width="1091" height="530" alt="image" src="https://github.com/user-attachments/assets/785dc8d7-a641-4ef6-9157-43c8394cce8b" />
 <img width="1133" height="528" alt="image" src="https://github.com/user-attachments/assets/5f93f259-9356-46e4-8e0c-f3d113f33f00" />
 
+
 **📁 Repository Contents**
 
 Completion Certificate _ SkillsBuild.pdf
+
 IBMDesign20250721-29-7dqhae.pdf
+
 IBMDesign20250721-31-97hofq.pdf
+
+Problem statement.docx
+
 ProjectTemplate-aj.pdf: The final project presentation pdf submitted for evaluation.
+
 README.md: This file.
 
 
